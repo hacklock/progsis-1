@@ -16,19 +16,22 @@ Para isso, seu trabalho precisa ter:
 
 Exemplo de algumas chamadas do sistema:
 
-[img]
+![Exemplo de algumas chamadas do sistema](https://github.com/guionardo/progsis-1/raw/master/Mapa/QUE_46519_177459_1.png)
 
 Para gerar números aleatórios, você pode usar os seguintes comandos:
 
+```java
 import java.util.Random; // no início
 Random gerador = new Random(); // para gerar o objeto
 variavel = gerador.nextInt(6);  // gera números de 0 a 5
+```
 
 Deixe seu programa para compilar e rodar com os seguintes comandos:
 
+```
 javac Mapa.java
-
 java Mapa
+```
 
 Depois de finalizado, envie seu arquivo Mapa.java.
 
