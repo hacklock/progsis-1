@@ -1,9 +1,9 @@
 import java.util.Random;
 
 /**
- * Classe Mapa
+ * Classe Mapa - Disponível em https://github.com/guionardo/progsis-1
  * @author Guionardo Furlan
- * @version 1.0
+ * @version 1.0 
  */
 class Mapa {
     // Número de candidatos
